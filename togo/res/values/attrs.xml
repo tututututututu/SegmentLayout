@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="JackLayout">
+        <attr name="spacing_left" format="dimension" />
+        <attr name="spacing_top" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="JackLayout_layout_params">
+        <attr name="layout_params_spacing_left" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="JackLayout_spacingtop">
+        <attr name="layout_params_spacing_top" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>

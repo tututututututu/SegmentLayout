@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="space_left_default">10dip</dimen>
+    <dimen name="space_top_defalut">10dip</dimen>
+    
+</resources>
